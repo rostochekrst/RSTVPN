@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Yadreno VPN — скрипт установки и управления
-# Запуск: bash <(curl -sL https://raw.githubusercontent.com/plushkinv/YadrenoVPN/main/install.sh)
+# Запуск: bash <(curl -sL https://raw.githubusercontent.com/rostochekrst/RSTVPN/refs/heads/main/install.sh)
 # 
 # === АВТОМАТИЧЕСКИЙ ЗАПУСК (БЕЗ ДИАЛОГОВ) ===
 #
