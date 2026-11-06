@@ -21,10 +21,10 @@
 
 set -e
 
-INSTALL_DIR="/root/YadrenoVPN"
-REPO_URL="https://github.com/plushkinv/YadrenoVPN.git"
+INSTALL_DIR="/root/RSTVPN"
+REPO_URL="https://github.com/rostochekrst/RSTVPN.git"
 VENV_DIR="$INSTALL_DIR/venv"
-SERVICE_FILE="yadreno-vpn.service"
+SERVICE_FILE="rst-vpn.service"
 UPDATER_SERVICE_FILE="yadreno-vpn-updater@.service"
 DB_PATH="$INSTALL_DIR/database/vpn_bot.db"
 
